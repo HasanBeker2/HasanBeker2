@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Hasan!
 
-🔍 **Data Analytics&Scientist Enthusiast | Educator | Tech Innovator**
+🔍 **Data Analytics & Science Enthusiast | Educator | Tech Innovator**
 
 ---
 
