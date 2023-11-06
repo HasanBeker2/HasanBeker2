@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Hasan!
 
-🔍 **Data Analytics Enthusiast | Educator | Tech Innovator**
+🔍 **Data Analytics&Scientist Enthusiast | Educator | Tech Innovator**
 
 ---
 
@@ -30,6 +30,6 @@ I’m on the lookout for innovative opportunities, partnerships, and community i
 ---
 
 📫 **Reach Out:**
-[LinkedIn](https://www.linkedin.com/in/hasan-beker/) | [Tableau](https://public.tableau.com/app/profile/hasan.beker/vizzes) | [Blog](YourBlogURL)
+[LinkedIn](https://www.linkedin.com/in/hasan-beker/) | [Tableau](https://public.tableau.com/app/profile/hasan.beker/vizzes) | [Kaggle](https://www.kaggle.com/hasanbeker)
 
 Feel free to say hello or inquire about collaborations. I'm here to make a difference, one dataset at a time!
