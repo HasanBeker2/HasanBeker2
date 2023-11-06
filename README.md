@@ -25,7 +25,7 @@ I'm a dedicated data analytics professional with a rich international background
 - Strong proponent of continuous learning and the empowering role of technology.
 
 🤝 **Open to Collaboration:**
-I’m on the lookout for innovative opportunities, partnerships, and community initiatives. Let's connect for anything related to data analytics, tech education, or if you have a project in mind!
+I’m on the lookout for innovative opportunities, partnerships, and community initiatives. Let's connect for anything related to data analytics,data science, tech education, or if you have a project in mind!
 
 ---
 
