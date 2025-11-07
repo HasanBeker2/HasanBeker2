@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Hasan!
 
-🚀 **AI Engineer | Automation Architect | RAG & Multi-Agent Developer**
+🚀 **AI Engineer | AI Security Engineer | Automation Architect | RAG & Multi-Agent Developer**
 
 ---
 
