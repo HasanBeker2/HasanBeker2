@@ -1,35 +1,52 @@
 ### Hi there 👋, I'm Hasan!
 
-🔍 **AI Engineer | Data Analytics & Science Enthusiast | Educator | Tech Innovator**
+🚀 **AI Engineer | Automation Architect | RAG & Multi-Agent Developer**
 
 ---
 
-I'm a dedicated data analytics professional with a rich international background across multiple sectors. Equipped with a robust command of SQL, Spreadsheets, Tableau, and Python, I specialize in transforming intricate data into actionable business insights.
-
-📊 **Professional Pathway:**
-- Systems engineering roots with a flair for data-driven decision-making.
-- Proven impact in digital marketing and project management through data strategies.
-- Championed sales performance uplift and social media optimization through analytics.
-
-🏫 **Educational Advocate:**
-- Pioneered volunteer robotics and coding classes for children in Greece and Germany, bridging my tech expertise with a passion for fostering youth education.
-
-🎓 **Academic Credentials:**
-- MSc in Modeling, Virtual Environments, and Simulation, Naval Postgraduate School.
-- Google Data Analytics Professional Certificate.
-- React Native Developer certification by Meta.
-- Comprehensive SDET course completion enhancing software testing and automation skills.
-
-👨‍💻 **A Life Beyond Codes:**
-- Avid skier, budding chef, robotics aficionado, and reader with a keen interest in futurism and AI.
-- Strong proponent of continuous learning and the empowering role of technology.
-
-🤝 **Open to Collaboration:**
-I’m on the lookout for innovative opportunities, partnerships, and community initiatives. Let's connect for anything related to data analytics,data science, tech education, or if you have a project in mind!
+I'm passionate about building intelligent, scalable systems that connect data, automate workflows, and enhance human creativity.  
+I specialize in **LLM-based AI, RAG pipelines, and secure automation frameworks**.
 
 ---
 
-📫 **Reach Out:**
-[LinkedIn](https://www.linkedin.com/in/hasan-beker/) | [Tableau](https://public.tableau.com/app/profile/hasan.beker/vizzes) | [Kaggle](https://www.kaggle.com/hasanbeker)
+#### 🧠 **Core Expertise**
+- Generative AI, LLMs (OpenAI, Gemini, Mistral, Claude, Ollama)
+- RAG Systems & Multi-Agent Automation (LangChain, CrewAI, n8n, Make)
+- Data Science & Visualization (Python, Pandas, SQL, Tableau, Power BI)
+- AI Security & Governance (ISO/IEC 42001, OWASP 2025, EU AI Act)
+- Cloud AI (Vertex AI, Azure AI Studio)
 
-Feel free to say hello or inquire about collaborations. I'm here to make a difference, one dataset at a time!
+---
+
+#### 🎓 **Certifications**
+- 🏆 **ISO/IEC 42001 Certified AI Management Professional** (TÜV / OpenAI Academy, 2025)  
+- 🧩 **OWASP Top 10:2025 – AI & Application Security** (OWASP Foundation, 2025)  
+- 🇪🇺 **EU AI Act Compliance & Risk Assessment** (European Academy for AI Governance, 2025)  
+- 🤖 **AI Engineering & RAG Systems** (TechnAI.io / Vertex AI, 2025)  
+- 📊 **Google Data Analytics Professional Certificate** (Google, 2023)  
+- 💡 **IBM Data Analyst & Data Science Certificates** (IBM, 2023–2024)  
+- ⚙️ **React Native Developer Certificate** (Meta, 2023)  
+- 🧪 **SDET – Software Development Engineer in Test** (CYDEO, USA, 2020)
+
+---
+
+#### 💼 **Experience Highlights**
+- Developed **RAG-based AI Assistants** for enterprise and e-commerce clients  
+- Created **AI-powered marketing automation** with OpenAI, Gemini, and Make.com  
+- Built **AI governance guardrails** for model risk, prompt security, and audit readiness  
+- Over 11 years’ background in **engineering, leadership, and project management**
+
+---
+
+#### 🌍 **About Me**
+- MSc in *Modeling, Virtual Environments & Simulation* – NPS, USA  
+- Based in *Lich, Hessen (Germany)*  
+- Volunteer **Robotics & Coding Educator** for children  
+- Love skiing 🎿, cooking 🍳, and exploring futuristic AI concepts 🤖  
+
+---
+
+📫 **Connect with Me**  
+[🌐 Website](https://hasanbeker.com) | [💼 LinkedIn](https://www.linkedin.com/in/hasan-beker/) | [📊 Tableau](https://public.tableau.com/app/profile/hasan.beker/vizzes) | [🧠 Kaggle](https://www.kaggle.com/hasanbeker)
+
+---
